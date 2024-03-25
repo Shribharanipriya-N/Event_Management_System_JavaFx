@@ -8,6 +8,8 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
+
+
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="716.0" prefWidth="1070.0" style="-fx-background-color: #27005D;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <ImageView fx:id="myimageview" fitHeight="458.0" fitWidth="678.0" layoutX="5.0" layoutY="1.0" pickOnBounds="true" AnchorPane.bottomAnchor="258.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="392.0" AnchorPane.topAnchor="0.0">
